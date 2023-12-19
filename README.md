@@ -28,10 +28,3 @@ Get the output as a Excel file that has detailed about the domain and the ip ref
 
 ## Contributing
 (Instructions for how others can contribute to the project.)
-
-## License
-(Information about the software license.)
-
-## Contact
-(Your contact information or that of the project maintainer.)
-
