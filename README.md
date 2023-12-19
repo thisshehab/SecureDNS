@@ -15,31 +15,13 @@ DNS Takeover is a cyber attack method where attackers gain control over a domain
 - **Phishing Attacks**: Fake versions of sites trick users into revealing personal info.
 - **Reputation Damage**: The domain's credibility and trust are undermined.
 
-## Features of the DNS Takeover Protection Tool
+## Features of SecureDNS
 
-### Continuous Monitoring
+### Scan Misconfig Domain names
 Regular scans of DNS records for unauthorized changes or vulnerabilities.
 
-### Alerts and Notifications
-Immediate alerts to administrators regarding suspicious DNS activities.
-
-### Vulnerability Assessment
-Identification of potential weaknesses in DNS configurations.
-
-### Historical Analysis
-Tracking past DNS records to identify patterns or repeated attack attempts.
-
-### Automated Response
-Automatic reverting of unauthorized changes and predefined actions to mitigate threats.
-
-### Integration with Security Tools
-Compatibility with other cybersecurity tools for enhanced security measures.
-
-## Benefits
-- **Prevents Unauthorized Redirection**: Stops web traffic from being hijacked.
-- **Protects Brand Reputation**: Ensures the integrity and trust of the domain.
-- **Enhances Security Posture**: Adds a crucial layer of defense against cyber threats.
-- **Compliance Assurance**: Aids in adhering to cybersecurity regulations.
+### Get Excel sheet 
+Get the output as a Excel file that has detailed about the domain and the ip referring to and other info..
 
 ## Getting Started
 (Here, you would include instructions on how to install, configure, and use the tool.)
