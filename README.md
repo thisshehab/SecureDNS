@@ -7,7 +7,7 @@ DNS Takeover is a cyber attack method where attackers gain control over a domain
 ## How DNS Takeover Happens
 - **Expired Domains**: Attackers register expired domains to control their DNS records.
 - **Subdomain Takeover**: Unclaimed subdomains pointing to inactive services are exploited.
-- **DNS Configuration Errors**: Mistakes in DNS settings can expose domains to at
+- **DNS Configuration Errors**: Mistakes in DNS settings can expose domains to atta
 
 ## Impact of DNS Takeover
 - **Data Theft**: Users are redirected to malicious sites where sensitive information can be compromised.
