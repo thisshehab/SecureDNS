@@ -24,7 +24,3 @@ Regular scans of DNS records for unauthorized changes or vulnerabilities.
 Get the output as a Excel file that has detailed about the domain and the ip referring to and other info..
 
 ## Getting Started
-(Here, you would include instructions on how to install, configure, and use the tool.)
-
-## Contributing
-(Instructions for how others can contribute to the project.)
