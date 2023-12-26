@@ -17,7 +17,7 @@ DNS Takeover is a cyber attack method where attackers gain control over a domain
 
 ## Features of SecureDNS
 
-### Scan Misconfig Domain name
+### Scan Misconfig Domain names
 Regular scans of DNS records for unauthorized changes or vulnerabilities.
 
 ### Get Excel sheet 
