@@ -1,5 +1,5 @@
 # SecureDNS
-Check for misconfiguration of a subdomain Names
+Check for misconfiguration of a subdomain Names.
 
 ## Overview
 DNS Takeover is a cyber attack method where attackers gain control over a domain's DNS records, redirecting traffic to malicious sites. This can lead to data theft, malware distribution, phishing, and reputation damage. This tool is designed to safeguard domains from such threats.
