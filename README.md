@@ -14,7 +14,7 @@ DNS Takeover is a cyber attack method where attackers gain control over a domain
 - **Malware Distribution**: The domain's reputation is used to spread harmful software.
 - **Phishing Attacks**: Fake versions of sites trick users into revealing personal info.
 - **Reputation Damage**: The domain's credibility and trust are undermined.
->.........
+>........
 ## Features of SecureDNS
 
 ### Scan Misconfig Domain names
